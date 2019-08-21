@@ -16,3 +16,7 @@ Extension of Intersect to support
 </ul>
 
 Collaborator: Park, Kyoungduk
+
+![alt text](https://github.com/williamzhang012998/raytracer/blob/master/example1.png)
+
+![alt text](https://github.com/williamzhang012998/raytracer/blob/master/example2.png)
